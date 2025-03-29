@@ -2,6 +2,7 @@
 
 # Configuration folder
 .vscode/
+.idea/
 
 ### Visual Studio ###
 
@@ -45,5 +46,8 @@ microwin.log
 True
 test.ps1
 winutil.ps1
+
+# temporary excludes for docs
+.github/site/
 
 binary/
